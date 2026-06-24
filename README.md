@@ -1,11 +1,10 @@
-# house-price-prediction
 AI-powered house price prediction web app using Random Forest
 # 🏠 House Price Prediction
 
 An ML-powered web app that predicts California house prices based on location, income, and housing features — built using Python, Scikit-learn, and Streamlit.
 
 ## 🚀 Live Demo
-[Add your deployed app link here once deployed]
+[https://house-price-prediction-cv8qtuhta5gjfygkpxnu7r.streamlit.app/]
 
 ---
 
@@ -142,4 +141,4 @@ python -m streamlit run app.py
 ---
 
 ## 👤 Author
-Kiruthika Kolanji – [LinkedIn Profile Link]
+Kiruthika Kolanji – [www.linkedin.com/in/kiruthika-kolanji-0148a8264]
